@@ -1,0 +1,13 @@
+.hello_world{
+	color: red;
+}
+.hello_img{
+	width: 100px;
+	height: 100px;
+	background:url('../assets/1.png');
+}
+.hello_img2{
+	width: 100px;
+	height: 100px;
+	background:url('../assets/33.png');
+}
